@@ -1,0 +1,5 @@
+E:\Project\xiao.ding.test\XDblogs\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.dll
+E:\Project\xiao.ding.test\XDblogs\Presentation\Nop.Web.Framework\bin\Debug\Nop.Web.Framework.pdb
+E:\Project\xiao.ding.test\XDblogs\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+E:\Project\xiao.ding.test\XDblogs\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.dll
+E:\Project\xiao.ding.test\XDblogs\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.pdb

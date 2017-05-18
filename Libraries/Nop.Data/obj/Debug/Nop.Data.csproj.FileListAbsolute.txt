@@ -1,0 +1,5 @@
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Data\bin\Debug\Nop.Data.dll
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Data\bin\Debug\Nop.Data.pdb
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Data\obj\Debug\Nop.Data.csprojResolveAssemblyReference.cache
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Data\obj\Debug\Nop.Data.dll
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Data\obj\Debug\Nop.Data.pdb

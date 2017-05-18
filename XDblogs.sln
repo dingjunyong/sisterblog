@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{1FBC20CD-3350-49CE-8613-5ECAA2C2CBE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{F38A9F40-0457-4158-A0F7-2AF976364BF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{CF588CDF-F80B-456E-A916-CBBA75497CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Web", "Presentation\Nop.Web\Nop.Web.csproj", "{AF9E41EF-04FE-457A-A60D-FC685F0C7814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Web.Framework", "Presentation\Nop.Web.Framework\Nop.Web.Framework.csproj", "{99C8E25C-1BCF-4FE6-8758-AEBF70828AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Admin", "Presentation\Nop.Admin\Nop.Admin.csproj", "{48606EBA-CCC4-4839-AB6B-86A3ADDEBEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Core", "Libraries\Nop.Core\Nop.Core.csproj", "{A5F163E0-C007-4C53-B80E-6D9DA5ABF203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Data", "Libraries\Nop.Data\Nop.Data.csproj", "{B73DA0C3-F1C8-48D1-B965-243BF5582FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Services", "Libraries\Nop.Services\Nop.Services.csproj", "{34E7878F-AC93-4537-A8A5-FF3BB1A677E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9E41EF-04FE-457A-A60D-FC685F0C7814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9E41EF-04FE-457A-A60D-FC685F0C7814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9E41EF-04FE-457A-A60D-FC685F0C7814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9E41EF-04FE-457A-A60D-FC685F0C7814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C8E25C-1BCF-4FE6-8758-AEBF70828AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C8E25C-1BCF-4FE6-8758-AEBF70828AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C8E25C-1BCF-4FE6-8758-AEBF70828AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C8E25C-1BCF-4FE6-8758-AEBF70828AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48606EBA-CCC4-4839-AB6B-86A3ADDEBEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48606EBA-CCC4-4839-AB6B-86A3ADDEBEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48606EBA-CCC4-4839-AB6B-86A3ADDEBEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48606EBA-CCC4-4839-AB6B-86A3ADDEBEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F163E0-C007-4C53-B80E-6D9DA5ABF203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F163E0-C007-4C53-B80E-6D9DA5ABF203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F163E0-C007-4C53-B80E-6D9DA5ABF203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F163E0-C007-4C53-B80E-6D9DA5ABF203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73DA0C3-F1C8-48D1-B965-243BF5582FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73DA0C3-F1C8-48D1-B965-243BF5582FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73DA0C3-F1C8-48D1-B965-243BF5582FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73DA0C3-F1C8-48D1-B965-243BF5582FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E7878F-AC93-4537-A8A5-FF3BB1A677E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E7878F-AC93-4537-A8A5-FF3BB1A677E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E7878F-AC93-4537-A8A5-FF3BB1A677E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E7878F-AC93-4537-A8A5-FF3BB1A677E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AF9E41EF-04FE-457A-A60D-FC685F0C7814} = {CF588CDF-F80B-456E-A916-CBBA75497CC0}
+		{99C8E25C-1BCF-4FE6-8758-AEBF70828AF2} = {CF588CDF-F80B-456E-A916-CBBA75497CC0}
+		{48606EBA-CCC4-4839-AB6B-86A3ADDEBEDC} = {CF588CDF-F80B-456E-A916-CBBA75497CC0}
+		{A5F163E0-C007-4C53-B80E-6D9DA5ABF203} = {1FBC20CD-3350-49CE-8613-5ECAA2C2CBE6}
+		{B73DA0C3-F1C8-48D1-B965-243BF5582FAB} = {1FBC20CD-3350-49CE-8613-5ECAA2C2CBE6}
+		{34E7878F-AC93-4537-A8A5-FF3BB1A677E1} = {1FBC20CD-3350-49CE-8613-5ECAA2C2CBE6}
+	EndGlobalSection
+EndGlobal

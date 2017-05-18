@@ -1,0 +1,5 @@
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Services\bin\Debug\Nop.Services.dll
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Services\bin\Debug\Nop.Services.pdb
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Services\obj\Debug\Nop.Services.csprojResolveAssemblyReference.cache
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Services\obj\Debug\Nop.Services.dll
+E:\Project\xiao.ding.test\XDblogs\Libraries\Nop.Services\obj\Debug\Nop.Services.pdb
